@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5774f4a1a908a83",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20221118-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20221118-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20221118-notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +152,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "afdcf7a2fb9b7abf",
+  "active": "e5774f4a1a908a83",
   "lastOpenFiles": [
+    "2022-11-21 notes.md",
+    "20221118-notes.md",
     "Windows New User Massive Wiki - Obsidian setup, 2021-06-20.md",
     "README.md"
   ]
