@@ -10,5 +10,7 @@ Initial testing is on Bill's iMac with this very notes file.
  - stage, commit, and push this thing
  -  this seems to work OK; but why am I seeing `.obsidian/workspace.json`  in the Obsidian-git "Changes" list? it should be `.gitignore`-ed
 - OK. added a file directly on Github. `push`-ing from here should raise an error.
+	- and it did raise the expected error.
+
 
 
