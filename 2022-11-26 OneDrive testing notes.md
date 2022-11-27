@@ -18,4 +18,5 @@ Initial testing is on Bill's iMac with this very notes file.
  - `git update-index --skip-worktree .obsidian/workspace.json`
  - still do not understand why this was needed
 
+- still confusing to understand what is where, but Obsidian-git on Win10 gets hung trying to refresh the vault on some sort of `isomorphic-git dircache issue`. will try to capture screensnap.
 
