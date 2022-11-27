@@ -13,7 +13,7 @@ venv
 node_modules
 
 # Obsidian.md
-.obsidian/**
+.obsidian/*
 !.obsidian/README.md
 
 # Massive Wiki Builder
