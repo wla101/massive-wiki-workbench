@@ -15,6 +15,7 @@ node_modules
 # Obsidian.md
 .obsidian/*
 !.obsidian/README.md
+.obsidian/workspace.json
 
 # Massive Wiki Builder
 .massivewikibuilder/output/*
