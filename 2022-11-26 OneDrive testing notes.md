@@ -13,4 +13,9 @@ Initial testing is on Bill's iMac with this very notes file.
 	- and it did raise the expected error.
 
 
+## 2022-11-27
+ - fiddled with the .gitignore file to ignore changes to `.obsidian/workspace.json` file and ended up using this command:
+ - `git update-index --skip-worktree .obsidian/workspace.json`
+ - still do not understand why this was needed
+
 
